@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/awyz/awyz.github.io/blob/master/images/unnamed.jpg",
     "email": "awy@hawaii.edu",
-    "phone": "808-724-1257",
+    "phone": "808-724-1277",
     "website": "https://awyz.github.io",
     "summary": "I am currently a student studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
@@ -63,7 +63,6 @@
         "C++",
         "Java",
         "Javascript",
-        "SQL",
       ]
     },
     {
@@ -81,9 +80,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2015-08-21",
       "endDate": "Present",
       "gpa": "",
       "courses": [
