@@ -6,7 +6,7 @@
     "email": "awy@hawaii.edu",
     "phone": "808-724-1277",
     "website": "https://awyz.github.io",
-    "summary": "I am currently a student studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "summary": "Currently, I am a student at the University of Hawaii at Manoa studying for a B.S. in Computer Science. I expect to graduate in Spring, 2019 and hope to start my career in cyber security.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "awy",
         "url": "https://www.linkedin.com/in/angela-zheng-b42747146/?trk=uno-choose-ge-no-intent&dl=no"
-      },
+      } /* ,
       {
         "network": "twitter",
         "username": "awyz____",
@@ -34,7 +34,7 @@
         "network": "instagram",
         "username": "awyz___",
         "url": "https://www.instagram.com/awyz___/"
-      }
+      } */
     ]
   },
   "interests": [
@@ -70,10 +70,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows OS"
       ]
     }
   ],
@@ -144,17 +142,11 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Chancellor's Scholarship",
+      "date": "2015-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded high achieving incoming freshman with a minimum 3.5 gpa and either a 1300 SAT score or 25 ACT score."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
