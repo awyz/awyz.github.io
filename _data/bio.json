@@ -13,7 +13,6 @@
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
-     }
     },
     "profiles": [
       {
@@ -23,34 +22,32 @@
       },
       {
         "network": "linkedin",
-        "username": "awy",
-        "url": "https://www.linkedin.com/in/angela-zheng-b42747146/?trk=uno-choose-ge-no-intent&dl=no"
-      },
-      {
-        "network": "instagram",
-        "username": "awy",
-        "url": "https://www.linkedin.com/in/angela-zheng-b42747146/?trk=uno-choose-ge-no-intent&dl=no"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
         "username": "awy",
         "url": "https://www.linkedin.com/in/angela-zheng-b42747146/?trk=uno-choose-ge-no-intent&dl=no"
       },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "interests": [
     {
       "name": "ethical hacking",
+    },
+    {
+      "name": "artificial intelligence",
       "keywords": [
       ]
     },
     {
       "name": "digital forensics",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
       "keywords": [
       ]
     }
@@ -68,7 +65,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+       "level": "",
       "keywords": [
         "MacOS",
         "Git/GitHub",
@@ -114,19 +111,28 @@
     }
   ],
   "volunteer": [
-    /*
     {
-      "organization": "Family Education Training Center (FETCH)",
-      "website": "https://efetch.org/",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+  
       ]
-    }, */
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        
+      ]
+    }
   ],
   "awards": [
     {
@@ -135,6 +141,12 @@
       "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded high achieving incoming freshman with a minimum 3.5 gpa and either a 1300 SAT score or 25 ACT score."
     },
+    {
+      "title": "Dean's List",
+      "date": "2015-2016",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": ""
+    }
   ],
   "references": [
     {
