@@ -13,6 +13,7 @@
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
+     }
     },
     "profiles": [
       {
@@ -24,17 +25,8 @@
         "network": "linkedin",
         "username": "awy",
         "url": "https://www.linkedin.com/in/angela-zheng-b42747146/?trk=uno-choose-ge-no-intent&dl=no"
-      } /* ,
-      {
-        "network": "twitter",
-        "username": "awyz____",
-        "url": "http://twitter.com/awyz____"
       },
-      {
-        "network": "instagram",
-        "username": "awyz___",
-        "url": "https://www.instagram.com/awyz___/"
-      } */
+
     ]
   },
   "interests": [
