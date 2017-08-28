@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: http://www.thehawaiiplan.com/wp-content/uploads/2012/10/7733312942_66fcc4cfe5.jpg
+image: images/thebus.jpg
 title: OTS Employee Federal Credit Union
 permalink: projects/otsfcu 
 date: 2015
