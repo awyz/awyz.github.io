@@ -13,15 +13,15 @@ labels:
 summary: A website for the Oahu Transit Service's Employee Federal Credit Union.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/otsefcu.png">
-</div>
+<img src="../images/otsefcu.png">
 
-  For this project, I was hired as an independent contractor by The Bus to help move the Oahu Transit Service's Employee Federal Credit Union (OTSEFCU) onto a new host. While on the old hosting service, the OTSEFCU website was written with php. The new host, however, only took HTML, which required me to update parts of the code. 
-  
-  While I had the help of a more senior programmer, I was in charge with converting the php code into HTML. In addition, I was also in charge of debugging faulty code. 
-  
-  This project was my first time working for someone. While doing this project, not only did I learn more about the structure of a website and how to create a web page, I also learned the importance of time management and how to communicate effectively with my client. Furthermore, I also got first hand experience with Microsoft SQL as well as data bases. 
+
+I was hired as an independent contractor by the Oahu Transit Services Employee Federal Credit Union, OTSEFCU, to move their website to a new host. This involved translating the code from the old format, PHP, into a different language. The project also involved some work with setting up databases. 
+
+Not only was I responsible for converting web pages from PHP to OTHER LANGUAGE, I was also RESPONSIBLE for debugging code and making aesthetic changes to the website. Furthermore, I had set up several databases(?) to be implemented at a later date in SQL. 
+
+This assignment was the first big project I had ever taken on. As I had never been exposed to PHP or SQL, I had to rise to the challenge and teach myself these languages by looking them up on my own. Furthermore, my flexibility and customer service skills were improved upon as I had to learn how to effectively communicate with my client to make sure the website was how they imagined it. In addition, this project was the largest I had ever taken on, and thus I had to learn how to properly manage my time in order to meet all the given deadlines. 
+
 
 
 
