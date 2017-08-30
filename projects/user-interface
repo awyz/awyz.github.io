@@ -1,4 +1,15 @@
-
+---
+layout: project
+type: project
+image: images/thebus.jpg
+title: User Interface and Database
+permalink: projects/user-interface 
+date: 2017
+labels:
+  - C
+  - Unix
+summary: A user interface that stores accounts in a database.
+---
 
 For my ICS 212 class, I created a user interface that would allow the user to interact with a database that would hold accounts consisting of a person’s name, address, and account number. Actions users could take included adding, modifying, or deleting an account, printing a specific account’s information to the screen, and printing the information of all stored accounts to the screen. 
 (MY ROLE)
