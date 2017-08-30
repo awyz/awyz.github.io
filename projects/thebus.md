@@ -10,6 +10,7 @@ labels:
   - CSS
   - PHP
   - GoDaddy
+  - SQL
 summary: A website for the Oahu Transit Service's Employee Federal Credit Union.
 ---
 
