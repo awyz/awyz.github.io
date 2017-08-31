@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/thebus.jpg
 title: User Interface and Database
-permalink: projects/ui-212 
+permalink: projects/userinterface
 date: 2017
 labels:
   - C
