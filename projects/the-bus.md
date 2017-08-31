@@ -16,12 +16,10 @@ summary: A website for the Oahu Transit Service's Employee Federal Credit Union.
 
 <img src="../images/otsefcu.png">
 
+I was hired as an independent contractor by the Oahu Transit Services Employee Federal Credit Union, OTSEFCU, to move their website to a new host. This involved translating the code from the old format, PHP, into a classic ASP. In addition, I had to help set up some databases and also work with the Microsoft SQL server. Not only was I responsible for converting web pages from PHP to classic ASP, I was also in charge of debugging code and making aesthetic changes to the website. 
 
-I was hired as an independent contractor by the Oahu Transit Services Employee Federal Credit Union, OTSEFCU, to move their website to a new host. This involved translating the code from the old format, PHP, into a different language. The project also involved some work with setting up databases. 
+This assignment was the first big project I had ever taken on. As I had never been exposed to PHP or SQL, I had to rise to the challenge and teach myself these languages by looking up their documentation on my own. Furthermore, my flexibility and customer service skills were improved upon as I had to learn how to effectively communicate with my client to make sure the website was how they imagined it. In addition, this project was the largest I had ever taken on, and thus I had to learn how to properly manage my time in order to meet all the given deadlines.
 
-Not only was I responsible for converting web pages from PHP to OTHER LANGUAGE, I was also RESPONSIBLE for debugging code and making aesthetic changes to the website. Furthermore, I had set up several databases(?) to be implemented at a later date in SQL. 
-
-This assignment was the first big project I had ever taken on. As I had never been exposed to PHP or SQL, I had to rise to the challenge and teach myself these languages by looking them up on my own. Furthermore, my flexibility and customer service skills were improved upon as I had to learn how to effectively communicate with my client to make sure the website was how they imagined it. In addition, this project was the largest I had ever taken on, and thus I had to learn how to properly manage my time in order to meet all the given deadlines. 
 
 
 
