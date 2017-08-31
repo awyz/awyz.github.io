@@ -15,4 +15,4 @@ For my ICS 212 class, I created a user interface that would allow the user to in
 
 While this project was difficult, it was a learning experience. For one, learning better time management skills were crucial, especially since with the project came a strict due date. Learning how to be better organized was key as well, especially since, at the time, this project had been the most complex assignment I had ever encountered. The assignment required the use of many different functions, for example: I needed to figure out how to store the actual information into a txt file serving as the database and also read that information. In order to be successful, I had to be more organized, which included breaking larger problems into smaller steps that could be handled one at a time. Finally, this project helped sharpen my problem solving skills. Whenever a bug or compiler error appeared, which was not a rare occurrence, I had to be creative and think critically about my solutions. 
 
-Source: 
+Source: <a href="https://github.com/awyz/database-212">Github</a>
