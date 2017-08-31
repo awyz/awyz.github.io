@@ -14,7 +14,7 @@ labels:
 summary: A website for the Oahu Transit Service's Employee Federal Credit Union.
 ---
 
-<center><img src="../images/otsefcu.png"></center>
+<center><img src="../images/otsfcu.png"></center>
 
 I was hired as an independent contractor by the Oahu Transit Services Employee Federal Credit Union, OTSEFCU, to move their website to a new host. Since the old website was written with PHP in mind and the new host did not accept this format, the website's code had to be translated. 
 
