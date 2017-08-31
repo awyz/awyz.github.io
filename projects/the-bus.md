@@ -22,4 +22,4 @@ My list of duties included translating the code from the old format, PHP, into c
 
 This assignment was the first big project I had ever taken on. As I had never been exposed to PHP or SQL, I had to rise to the challenge and teach myself these languages by looking up their documentation on my own. Furthermore, my flexibility and customer service skills were improved upon as I had to learn how to effectively communicate with my client to make sure the website was how they imagined it. In addition, this project was the largest I had ever taken on, and thus I had to learn how to properly manage my time in order to meet all the given deadlines.
 
-Source: <a href="otsefcu.org">Oahu Transit Service's Employee Federal Credit Union</a>
+Source: <a href="http://www.otsefcu.org/">Oahu Transit Service's Employee Federal Credit Union</a>
