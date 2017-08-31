@@ -11,7 +11,10 @@ labels:
   - web development
 summary: A website I worked on for a client. 
 ---
-<center><img src="../images/acupuncture.png"></center>
+
+<div class="ui medium right floated rounded image">
+<img src="../images/acupuncture.png">
+</div>
 
 This was my first time building a website from scratch as I was asked to build one for a family friend’s acupuncture practice. She had wanted the website to not only be advertisement for her practice, but it was meant to be informative as well and provide an easy method for potential clients to correspond with her.
 
