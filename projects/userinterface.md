@@ -20,4 +20,4 @@ While this project was difficult, it was a learning experience. For one, learnin
 In order to be successful, I had to know how to break down larger problems into smaller steps that could be handled one at a time. Finally, this project helped sharpen my problem solving skills. Whenever a bug or compiler error appeared, which was not a rare occurrence, I had to be creative and think critically to find the best solution. 
 
 
-Source: <a href="https://github.com/awyz/database-212">Github</a>
+Source: <i class="large github icon"></i><a href="https://github.com/awyz/database-212">database-212</a>
