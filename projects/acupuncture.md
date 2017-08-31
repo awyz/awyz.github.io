@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/herbs.jpg
+image: images/Herbs.jpg
 title: An Acupuncturist's Website
 permalink: projects/acupuncture
 date: 666
