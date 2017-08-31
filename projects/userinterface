@@ -1,12 +1,13 @@
 ---
 layout: project
 type: project
-image: images/herbs.jpg
+image: images/Herbs.jpg
 title: User Interface and Database
 permalink: projects/userinterface
 date: 2017
 labels:
   - C
+  - Test
   - Unix
 summary: A user interface that stores accounts in a database.
 ---
