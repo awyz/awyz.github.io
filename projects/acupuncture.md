@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/herbs.jpg
+image: images/herbs.png
 title: An Acupuncturist's Website
 permalink: projects/acupuncture
 date: 2015
@@ -11,6 +11,7 @@ labels:
   - web development
 summary: A website I worked on for a client. 
 ---
+<center><img src="../images/acupuncture.png"></center>
 
 This was my first time building a website from scratch as I was asked to build a website for a family friend’s acupuncture practice. 
 Overall, I was responsible for writing and debugging the website’s code. Whenever I was stuck on a particular issue, however, I had the assistance of a more senior programmer who was able to give me advice and help me debug when I needed it.
@@ -19,4 +20,4 @@ At the time, I did not have any prior experience with HTML or CSS. Thus, this pr
 
 
 
-Source: http://teresang.net/
+Source: <a href="http://teresang.net/">Teresa Ng</a>
