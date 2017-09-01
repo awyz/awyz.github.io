@@ -6,7 +6,6 @@ date: 2017-08-30
 labels:
   - Software Engineering
   - Learning
-  - cyber security
 ---
 
 <img class="ui tiny left circular floated image" src="../images/brain.png">
