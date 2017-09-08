@@ -9,7 +9,7 @@ labels:
   - Communication
 ---
 
-<center><img src="../images/lmgtfy.png"></center>
+<center><img src="../images/bart.png"></center>
 
 Some would characterize computer scientists as antisocial fellows who spend more time fiddling with computers instead of speaking to other human beings. This, however, is not true. In fact, effective communication skills is one of the most important abilities a young, hopeful computer programmer can learn. 
 <b><center><q>There is no such thing as a stupid question.</q></center></b>
