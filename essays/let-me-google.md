@@ -1,4 +1,4 @@
-﻿---
+---
 layout: essay
 type: essay
 title: Let Me Google That For You
