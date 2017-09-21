@@ -11,9 +11,9 @@ labels:
 
 Coding standards. Who needs them, right? All they do is waste time and give programmer’s a headache. 
 
-<center>Wrong.</center> 
+<b><center>Wrong.</center></b> 
 
-<center><img src="../images/devhumor.jpg"></center>
+<b><center><img src="../images/devhumor.jpg"></center></b>
 
 What’s so great about coding standards? For one, they show a certain level of professionalism. Instead of being a button pressing monkey, one shows that they have put time and effort into their code in order to make it more readable. It also shows that the programmer is comfortable with the language they are writing in, as they not only are able to program in that language, but know how to correctly format their code in order for it to be readable.
 
