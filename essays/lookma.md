@@ -9,7 +9,7 @@ labels:
   - Coding standards
 ---
 
-Coding standards. Who needs them, right? All they do is waste time and give programmer’s a headache. 
+Coding standards. Who needs them, right? All they do is waste time and give programmers a headache. 
 
 <b><center>Wrong.</center></b> 
 
