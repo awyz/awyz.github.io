@@ -10,6 +10,7 @@ labels:
   - Learning
 ---
 
+<center><img src="http://meetingsnorthwest.com/wp-content/uploads/2016/03/mind-blown_shortcuts.png"></center>
 
 Bootstrap. Foundation. Semantic UI. While UI frameworks definitely come with their own learning curve, overall they alleviate some of the pain associated with web development. Plain text websites look, as their name implies, quite plain, but take a UI Framework such as Semantic UI for example: not only is it relatively easy to use in comparison to raw HTML/CSS, to put it plainly, it looks much, much nicer as well with a lot less effort. Even novices at web development--such as myself--are able to create aesthetically pleasing sites. This is mainly because of Semantic UI’s built in classes that are easy to customize, easy to use, and rather intuitive, for instance: implementing a menu is as simple as “ui menu”. To invert its colors, one merely has to insert the word “inverted” somewhere in the class name. 
 
