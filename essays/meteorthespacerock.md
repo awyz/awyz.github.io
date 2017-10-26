@@ -5,7 +5,6 @@ title: Meteor: Space Rock or More?
 date: 2017-10-26
 labels:
   - Software Engineering
-  - Learning
   - Meteor
 ---
 
