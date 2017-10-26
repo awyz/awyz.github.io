@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Meteor: Space Rock or More?
+title: Meteor -- Space Rock or More?
 date: 2017-10-26
 labels:
   - Software Engineering
