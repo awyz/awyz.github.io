@@ -10,7 +10,7 @@ labels:
 
 <center><img src="https://gigaom.com/wp-content/uploads/sites/1/2014/12/shutterstock_26020768-640x427.jpg"></center>
 
-<h3>What is meteor?</h3>
+<h3>What is Meteor?</h3>
 
  According to Merriam-Webster, a meteor is “any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere”. Just two weeks ago, I would have answered in a likewise, albeit simpler fashion. Now, however, I realize that in computer science, Meteor is so much more. Beside being a space rock, Meteor is also an excellent application architecture and an incredibly helpful tool when building websites.
 
