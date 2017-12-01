@@ -4,8 +4,8 @@ type: essay
 title: Let's Get Ethical
 date: 2017-11-30
 labels:
-  - ethics
-  - privacy
+  - Ethics
+  - Privacy
   - Learning
 ---
 
