@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<center><img src="../images/ethics.jpg"></center>
+<center><img class="ui medium circular image" src="../images/ethics.jpg"></center>
 
 Ethics is a word that often gets thrown around, but is not always completely understood. Furthermore, at a glance, it does not seem as though ethics and software engineering overlap. However, as technology becomes a bigger and bigger part of everyone’s lives, ethics becomes a real issue. While ACM, the Association for Computing Machinery, has pages and pages describing what an ethical software engineer should strive to uphold, but it all boils down to taking care of and watching out for fellow human beings. Looking at it from a software engineering lense, ethics dictates that people should be morally upstanding and aim to protect users and their privacy. As Francis Bacon once said, “Knowledge is power”, and this has never been truer than today, especially when spreading private information about people without their consent can put people at risk.
 
