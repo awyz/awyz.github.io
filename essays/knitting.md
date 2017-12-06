@@ -9,7 +9,7 @@ labels:
   - Program structure
 ---
 
-<center><img src="https://raw.githubusercontent.com/awyz/awyz.github.io/master/images/knit.jpg"></center>
+<center><img class="ui medium image" src="https://raw.githubusercontent.com/awyz/awyz.github.io/master/images/knit.jpg"></center>
 
 <h3>A Sweater of Code</h3>
 
