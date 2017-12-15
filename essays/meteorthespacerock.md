@@ -10,11 +10,11 @@ labels:
 
 <center><img src="https://gigaom.com/wp-content/uploads/sites/1/2014/12/shutterstock_26020768-640x427.jpg"></center>
 
-<h3>What is Meteor?</h3>
+## What is Meteor?
 
  According to Merriam-Webster, a meteor is “any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere”. Just two weeks ago, I would have answered in a likewise, albeit simpler fashion. Now, however, I realize that in computer science, Meteor is so much more. Beside being a space rock, Meteor is also an excellent application architecture and an incredibly helpful tool when building websites.
 
-<h3>Thoughts</h3>
+## Thoughts
 
 My first impression of Meteor as a tool and application architecture was not the greatest. For the first few days of attempting to learn how to use it, I was overwhelmed. There was so much to learn and so much information that I did not know how to process in a helpful, efficient way. I was familiar with building websites using HTML, CSS, and JavaScript and I failed to see the point in using Meteor. To me, it seemed like a waste of time. Meteor’s overwhelming nature and fairly steep learning curve had me believing that for the longest time I would never come close to understanding Meteor and would never want to use it outside of my computer science classes. However, after using Meteor for the past two weeks and getting past the initial confusion, I finally believed that Meteor is a very useful tool that can be used to do a variety of things such as build websites and implement databases. Furthermore, Meteor also makes it easy to create account logins and store information in databases. In fact, my favorite feature of Meteor how it automatically refreshes the website it is connected to once a change in the code has been detected.
 
