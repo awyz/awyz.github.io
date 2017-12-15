@@ -20,9 +20,9 @@ Munchie Zone is a website developed to benefit hungry University of Hawaii stude
 ## My Role
 The work in this project was split fairly evenly. In milestone 1, I was in charge of creating mockup pages for the current orders page and the profile page. This involved using HTML, CSS, Javascript, and Semantic UI in order to create aesthetically pleasing pages. For the second milestone, I was in charge of implementing a collection of orders that could be viewed from both the current orders page as well as the home page. This was difficult, as it was my first time working with databases on my own. I also implemented a collection of restaurants, which could be used to sort through orders. Finally, I was also in charge of the order joining page, in which students could join in on other people’s orders. As a team, everyone worked on the documentation. We also helped each other whenever one of us was stuck on how to implement something or get rid of a bug.
 
-<center><img style="ui medium floated image" src="https://github.com/awyz/awyz.github.io/blob/master/images/final-current-order.png?raw=true"></center>
-<center><img style="ui medium image" src="https://github.com/awyz/awyz.github.io/blob/master/images/final-edit-order.png?raw=true"></center>
-<center><img style="ui medium image" src="https://github.com/awyz/awyz.github.io/blob/master/images/final-profile.png?raw=true"></center>
+<center><img style="ui small floated image" src="https://github.com/awyz/awyz.github.io/blob/master/images/final-current-order.png?raw=true"></center>
+<center><img style="ui small image" src="https://github.com/awyz/awyz.github.io/blob/master/images/final-edit-order.png?raw=true"></center>
+<center><img style="ui small image" src="https://github.com/awyz/awyz.github.io/blob/master/images/final-profile.png?raw=true"></center>
 
 ## A Learning Experience
 This project was my first time collaborating with multiple people. I learned many skills, with the most important one being effective communication. This skill was important and was used in a variety of ways. For example, conflict management taught me how to communicate and compromise with my group members. In addition, I improved my leadership skills by helping to delegate tasks to my group members using Issue Driven Management practices. 
