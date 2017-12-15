@@ -17,9 +17,9 @@ I am metaphorically banging my head against the wall, trying to think of the bes
 
 ## A More Complex Product
 
-I have used several design patterns within my own code, sometimes without realizing it. For example, the Private Class Data design has been woven into several of my programs as a way to control who has access to data belonging to certain classes or objects via getters and setters. In addition, the Null Object design pattern has also been of great help in situations where I want to either initialize something as a null object or am checking to see if an object exists. Also, the iterator design has been particularly useful, especially for accessing data stored in lists by iterating over all the elements.
+I have used several design patterns within my own code, sometimes without realizing it. For example, the Private Class Data design has been woven into several of my programs as a way to control who has access to data belonging to certain classes or objects via getters and setters. In addition, the Null Object design pattern has been of great help as well in situations where I want to either initialize something as a null object or am checking to see if an object exists. Also, the iterator design has been particularly useful, especially for accessing data stored in lists by iterating over all the elements.
 
-While these design patterns may seem rather simple, much like knitting, these patterns   combined can be used to make a more complex product. Without them, programming--for newbies especially--would involve a lot more confusion, effort, and wasted time. 
+While these design patterns may seem rather simple, much like knitting, these patterns combined can be used to make a more complex product. Without them, programming--for newbies especially--would involve a lot more confusion, effort, and wasted time. 
 
 
  
