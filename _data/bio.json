@@ -51,6 +51,7 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML"
       ]
     },
     {
@@ -59,8 +60,8 @@
       "keywords": [
         "MacOS",
         "Git/GitHub",
-        "Windows OS"
-        "Meteor"
+        "Windows OS",
+        "Meteor",
       ]
     }
   ],
