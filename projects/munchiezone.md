@@ -33,9 +33,9 @@ Overall, this project was an excellent learning experience and taught me many sk
 
 More information about our project can be found at the following links:
 
-Source: <i class="large github icon"></i><a href="https://github.com/awyz/database-212">Munchie Zone</a>
+Source: <i class="large github icon"></i><a href="https://github.com/munchiezone/munchiezone.github.io">Munchie Zone</a>
 
-<a href="https://github.com/munchiezone/munchiezone.github.io">Project Homepage</a>
+<a href="https://munchiezone.github.io/">Project Homepage</a>
 
 
 
