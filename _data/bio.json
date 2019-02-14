@@ -2,11 +2,11 @@
   "basics": {
     "name": "Angela Zheng",
     "label": "Student",
-    "picture": "../images/me.jpg",
+    "picture": "../images/profile.jpg",
     "email": "awy@hawaii.edu",
     "phone": "808-724-1277",
     "website": "https://awyz.github.io",
-    "summary": "Currently, I am a student at the University of Hawaii at Manoa studying for a B.S. in Computer Science. I expect to graduate in Spring, 2019 and hope to start my career in cyber security.",
+    "summary": "Currently, I am a student at the University of Hawaii at Manoa studying for a B.S. in Computer Science. I will graduate in Spring 2019.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -29,15 +29,15 @@
   },
   "interests": [
     {
-      "name": "ethical hacking",
+      "name": "data visualization",
     },
     {
-      "name": "web development",
+      "name": "networking",
       "keywords": [
       ]
     },
     {
-      "name": "video games",
+      "name": "software development",
       "keywords": [
       ]
     }
@@ -48,10 +48,23 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
-        "HTML"
+        "HTML",
+        "CSS",
+        "Flask",
+        "Semantic UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Oracle DB",
+        "PSQL",
+        "SQL*Plus",
+        "SQLite 3"
       ]
     },
     {
@@ -61,23 +74,88 @@
         "MacOS",
         "Git/GitHub",
         "Windows OS",
-        "Meteor",
+        "Eclipse",
+        "IntelliJ",
+        "NetBeans",
+        "Microsoft Visual Studio",
+        "Dreamweaver",
+        "Atom"
       ]
     }
+    {
+      "name": "Applications",
+      "level": "",
+      "keywords": [
+        "Microsoft Office",
+        "Open Office",
+        "Google Drive"
+      ]
+    }  
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2015-08-21",
-      "endDate": "Present",
+      "startDate": "Fall 2015",
+      "endDate": "Spring 2019",
       "gpa": "",
       "courses": [
+        "Java I & II",
+        "Discrete Math I & II",
+        "Program Structure",
+        "C & C++",
+        "Algorithms",
+        "Machine-Level & Systems Programming",
+        "Operating Systems",
+        "Software Engineering I & II",
+        "Databases",
+        "Mobile App Design",
+        "Web Development",
+        "Data Visualization",
+        "Computer Security and Ethics",
+        "Data Networking"
       ]
     }
   ],
   "work": [
+    {
+      "company": "Laboratory for Advanced Visualization and Applications",
+      "position": "Software Developer",
+      "website": "http://lava.manoa.hawaii.edu/",
+      "startDate": "November 2018",
+      "endDate": "Present",
+      "summary": "Contribute to SAGE2, an open source, web-based collaboration system.",
+      "highlights": [
+        "Maintain SAGE2 boards",
+        "Write applications for SAGE2"
+      ]
+    },
+    {
+      "company": "University of Manoa Information Information Technology Services",
+      "position": "Software Developer",
+      "website": "https://github.com/uhawaii-system-its-ti-iam",
+      "startDate": "August 2018",
+      "endDate": "Present",
+      "summary": "Helped develop UH Groupings, an open source project aiming to create groupings to easily manage large groups of people",
+      "highlights": [
+        "Developed API side of the project",
+        "Assisted in writing tests",
+        "Lead research portion of the project"
+      ]
+    },   
+    {
+      "company": "University of Manoa Information",
+      "position": "Assitant Web Developer",
+      "website": "https://www.ctahr.hawaii.edu/new/",
+      "startDate": "June 2018",
+      "endDate": "November 2018",
+      "summary": "Maintained and updated the Nutrition Education for Wellness website and its related sites.",
+      "highlights": [
+        "Designed updated site",
+        "Updated monthly gallery"
+      ]
+    },    
     {
       "company": "UH Manoa Admissions Department Scholarship Section",
       "position": "Scholarship Fellow",
