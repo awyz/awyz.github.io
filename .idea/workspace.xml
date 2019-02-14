@@ -2,127 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="896f71b5-b3b1-45ef-bb6a-2220f1eef3f8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/bio.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-address.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-awards-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-awards-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-education-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-education-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-interests-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-network-links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-publications-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-publications-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-references-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-skills-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-volunteer-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-volunteer-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-work-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/bio-work-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/essay-card-1a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/essay-card.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/essay-row.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/home-network-links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/menubar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/project-card-1a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/project-card.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/project-row.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-bio-builtin-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-bio-builtin-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-essays-builtin-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-essays-builtin-1a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-essays-builtin-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-home-builtin-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-home-builtin-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-home-builtin-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-projects-builtin-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-projects-builtin-1a.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/theme-projects-builtin-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/bio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/essay.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/essays.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/missingpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/project.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/projects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bio/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/accordion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/api.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/checkbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/colorize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/dimmer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/embed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/nag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/progress.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/rating.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/shape.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/sidebar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/site.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/state.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/sticky.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/visibility.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/semantic-ui/visit.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/404.md" afterPath="$PROJECT_DIR$/Old bowfolios/404.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/Old bowfolios/LICENSE" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/Old bowfolios/_config.yml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/Old bowfolios/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/212.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/212.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/asd.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/asd.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bart.gif" afterPath="$PROJECT_DIR$/Old bowfolios/images/bart.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/brain.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/brain.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/code.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/code.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cotton-header.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/cotton-header.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cotton-square.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/cotton-square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/degree_difficulty.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/degree_difficulty.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/design-technology.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/design-technology.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/devhumor.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/devhumor.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ethics.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/ethics.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/final-current-order.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/final-current-order.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/final-edit-order.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/final-edit-order.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/final-profile.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/final-profile.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/getready.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/getready.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/hack.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/hack.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/herbs.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/herbs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/javacup.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/javacup.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/javascript.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/javascript.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/knit.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/knit.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/lmgtfy.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/lmgtfy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/me.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/me.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/menu.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/menu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/micromouse-circuit.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/micromouse-circuit.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/micromouse-robot-2.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/micromouse-robot-2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/micromouse-robot.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/micromouse-robot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/micromouse.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/micromouse.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/molly.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/molly.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/munchiesite.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/munchiesite.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/otsfcu.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/otsfcu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/paintbrush.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/paintbrush.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/paintbrushes.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/paintbrushes.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/profile.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/profile.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/rtfm.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/rtfm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/software-code.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/software-code.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/teresa.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/teresa.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/thebus.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/thebus.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/unnamed.jpg" afterPath="$PROJECT_DIR$/Old bowfolios/images/unnamed.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/vacay-home-page.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/vacay-home-page.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/vacay-square.png" afterPath="$PROJECT_DIR$/Old bowfolios/images/vacay-square.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/Old bowfolios/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/acupuncture.md" afterPath="$PROJECT_DIR$/Old bowfolios/projects/acupuncture.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/index.html" afterPath="$PROJECT_DIR$/Old bowfolios/projects/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/munchiezone.md" afterPath="$PROJECT_DIR$/Old bowfolios/projects/munchiezone.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/the-bus.md" afterPath="$PROJECT_DIR$/Old bowfolios/projects/the-bus.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/userinterface.md" afterPath="$PROJECT_DIR$/Old bowfolios/projects/userinterface.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/index.html" afterPath="$PROJECT_DIR$/Old bowfolios/essays/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/knitting.md" afterPath="$PROJECT_DIR$/Old bowfolios/essays/knitting.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/let-me-google.md" afterPath="$PROJECT_DIR$/Old bowfolios/essays/let-me-google.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/letsgetethical.md" afterPath="$PROJECT_DIR$/Old bowfolios/essays/letsgetethical.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/lookma.md" afterPath="$PROJECT_DIR$/Old bowfolios/essays/lookma.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/meteorthespacerock.md" afterPath="$PROJECT_DIR$/Old bowfolios/essays/meteorthespacerock.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/essays/syntaxsemantics.md" afterPath="$PROJECT_DIR$/Old bowfolios/essays/syntaxsemantics.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -130,6 +17,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-882">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -370,6 +271,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,18 +281,10 @@
               <item name="awyz.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="awyz.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="awyz.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="awyz.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="Old bowfolios" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,6 +303,7 @@
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.selected.package.jscs" value="C:\Users\xxfaw\OneDrive\Documents\GitHub\munchiezone\app\node_modules" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -521,6 +418,43 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-882">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
